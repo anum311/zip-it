@@ -9,7 +9,6 @@ list2 = [100, 200, 300, 400]
 for x, y in zip(list1, list2[::-1]):
     print(x, y)
 
-# Zip into dictionary
 stocks = ['reliance', 'infosys', 'tcs']
 prices = [2175, 1127, 2750]
 
